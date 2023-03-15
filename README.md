@@ -3,11 +3,16 @@
     <h1 align="center">Hola 👋, soy Santiago Rubio</h1>
     <h3>Un apasionado por el desarrollo web con competencias para crear y desarrollar sitios web a través de distintas tecnologias. Caracterizado por la determinación para llevar a cabo proyectos y metas propuestas, así como apasionado por el aprendizaje.</h3>
 </div>
-<div id="badges" aling="center">
+<div id="badges" align="center">
     <a href="https://www.linkedin.com/in/santiago-rubio-baena/" target="_blank">
         <img 
         src="https://img.shields.io/badge/Linked-In-blue"
         alt="LinkedIn Badge">
+    </a>
+    <a href="mailto:santiago.rubio.baena.22@gmail.com" target="_blank">
+        <img 
+        src="https://img.shields.io/badge/Gmail-%E2%9C%89%EF%B8%8F-red"
+        alt="Gmail Badge">
     </a>
 </div>
 <!--
