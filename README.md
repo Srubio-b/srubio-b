@@ -1,31 +1,31 @@
-<div id="header" align="center">
-    <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200" />
-    <h1 align="center">Hola 👋, soy Santiago Rubio</h1>
-    <h3>Un apasionado por el desarrollo web con competencias para crear y desarrollar sitios web a través de distintas tecnologias. Caracterizado por la determinación para llevar a cabo proyectos y metas propuestas, así como apasionado por el aprendizaje.</h3>
-</div>
-<div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/santiago-rubio-baena/" target="_blank">
-        <img 
-        src="https://img.shields.io/badge/Linked-In-blue"
-        alt="LinkedIn Badge">
-    </a>
-    <a href="mailto:santiago.rubio.baena.22@gmail.com" target="_blank">
-        <img 
-        src="https://img.shields.io/badge/Gmail-%E2%9C%89%EF%B8%8F-red"
-        alt="Gmail Badge">
-    </a>
-</div>
-<!--
-**Srubio-b/srubio-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Hola, Soy Santiago Rubio! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="230" >
+<p><em>Full Stack Engineer en <a href="https://www.educacionit.com/">Educacón IT</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Estudiante de Ingeniería Biológica en <a href="https://unal.edu.co/en.html">Universidad Nacional de Colombia</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-Here are some ideas to get you started:
+[![Gmail: Srubio-b](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santiago.rubio.baena.22@gmail.com)
+[![Linkedin: Srubio-b](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-rubio-baena/)
+[![GitHub Srubio-b](	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Srubio-b)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Algo más sobre mí...  
+
+```javascript
+const Santiago = {
+  pronombres: "he" | "his",
+  codigo: [Javascript,HTML, CSS],
+  herramientas: [React, Redux, Node JS, MongoDB, Express, Docker],
+  habilidades: {
+                        front-end: "Junior",
+                        back-end: "Junior",
+                        blandas: "Incalculable"
+                      },
+ reto: "Todos los días aprender algo de distintas tecnologias y mover las manitas en el proceso"
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Me gusta conectar con otras personas,</b> si tu dices <b>"hola", Estaré feliz de conocerte!</b> :)</em>
+
+---
+
+⭐️ Por [@Srubio-b](https://github.com/Srubio-b)
