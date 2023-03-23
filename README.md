@@ -12,9 +12,9 @@
 
 ```javascript
 const Santiago = {
-  pronombres: "he" | "his",
-  codigo: [Javascript,HTML, CSS],
-  herramientas: [React, Redux, Node JS, MongoDB, Express, Docker],
+  pronombres: "he" | "him",
+  codigo: [Javascript, HTML, CSS],
+  herramientas: [React, Redux, NodeJS, MongoDB, Express, Docker],
   habilidades: {
                         front-end: "Junior",
                         back-end: "Junior",
